@@ -1,2 +1,2 @@
-# cs231n
+# cs231n_assignments
 cs231n assignments
